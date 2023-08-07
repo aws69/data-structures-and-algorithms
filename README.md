@@ -6,6 +6,7 @@ Write a function called reverseArray which takes an array as an argument. Withou
 
 ## Whiteboard Process
 <!-- Embedded whiteboard image -->
+![Screenshot 2023-08-07 163427](https://github.com/aws69/data-structures-and-algorithms/assets/108069102/65e1897b-8df8-4642-8aca-f2e2ac800de3)
 
 ## Approach & Efficiency
 <!-- What approach did you take? Why? What is the Big O space/time for this approach? -->
