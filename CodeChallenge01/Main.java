@@ -1,7 +1,7 @@
 public class Main {
 
 	// function that reverses array and stores it
-	// in another array
+	
 	static void reverse(int a[], int n)
 	{
 		int[] b = new int[n];
@@ -11,7 +11,7 @@ public class Main {
 			j = j - 1;
 		}
 
-		// printing the reversed array
+		// print method
 		System.out.println("Reversed array is: \n");
 		for (int k = 0; k < n; k++) {
 			System.out.println(b[k]);
