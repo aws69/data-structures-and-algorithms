@@ -8,3 +8,4 @@
 | Code Challenge 03 | [Binary Search Array](./class-03/README.md)         |
 | Code Challenge 04 | [Fibonacci](./class-04/README.md)         |
 | Code Challenge 05 | [Linked List](./class-05/README.md)         |
+| Code Challenge 06 | [Linked List Insertions](./class-06/README.md)         |
