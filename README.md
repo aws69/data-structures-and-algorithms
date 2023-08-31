@@ -9,5 +9,6 @@
 | Code Challenge 04 | [Fibonacci](./class-04/README.md)         |
 | Code Challenge 05 | [Linked List](./class-05/README.md)         |
 | Code Challenge 06 | [Linked List Insertions](./class-06/README.md)         |
+| Code Challenge 07 | [Linked List ZIP](./class-07/README.md)         |
 | Code Challenge 08 | [Linked List ZIP](./linked-list-zip/README.md)         |
 | Code Challenge 09 | [Reversed Linked List ](./class-09/README.md)         |
