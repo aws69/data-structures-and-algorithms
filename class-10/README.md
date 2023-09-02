@@ -50,7 +50,7 @@ The class should contain the following methods:
 
 ## Whiteboard Process
 <!-- Embedded whiteboard image -->
-![stack and queue](\\wsl$\Ubuntu\home\aws\data-structures-and-algorithms\class-10\stack%20and%20queue.jpg)
+![Alt text](<stack and queue.jpg>)
 
 
 ## Approach & Efficiency
