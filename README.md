@@ -13,3 +13,5 @@
 | Code Challenge 08 | [Linked List ZIP](./linked-list-zip/README.md)         |
 | Code Challenge 09 | [Reversed Linked List ](./class-09/README.md)         |
 | Code Challenge 10 | [Stack And Queue ](./class-10/README.md)         |
+| Code Challenge 11 | [Stack Queue Pseudo ](./class-11/README.md)         |
+| Code Challenge 12 | [First-in, First out Animal Shelter ](./class-12/README.md)         |
