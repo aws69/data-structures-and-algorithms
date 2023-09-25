@@ -19,4 +19,5 @@
 | Code Challenge 14 | [Max Stack ](./class-14/README.md)                          |
 | Code Challenge 15 | [Binary Tree and BST Implementation ](./class-15/README.md) |
 | Code Challenge 16 | [Max tree ](./class-16/README.md)                           |
-| Code Challenge 17 | [Tree Breadth First ](./class-17/README.md) |
+| Code Challenge 17 | [Tree Breadth First ](./class-17/README.md)                 |
+| Code Challenge 18 | [FizzBuzz Tree](./class-18/README.md)                       |
