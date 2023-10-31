@@ -1,13 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
   <component name="GradleSettings">
     <option name="linkedExternalProjectsSettings">
       <GradleProjectSettings>
-        <option name="externalProjectPath" value="$PROJECT_DIR$/class-07" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="gradleJvm" value="jbr-17" />
         <option name="modules">
           <set>
+            <option value="$PROJECT_DIR$" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/class-07" />
+        <option name="gradleJvm" value="11" />
+        <option name="modules">
+          <set>
             <option value="$PROJECT_DIR$/class-07" />
+            <option value="$PROJECT_DIR$/class-07/app" />
           </set>
         </option>
       </GradleProjectSettings>
@@ -17,6 +28,7 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$/class-09" />
+            <option value="$PROJECT_DIR$/class-09/app" />
           </set>
         </option>
       </GradleProjectSettings>
@@ -26,6 +38,7 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$/class-10" />
+            <option value="$PROJECT_DIR$/class-10/app" />
           </set>
         </option>
       </GradleProjectSettings>
@@ -35,6 +48,7 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$/class-11" />
+            <option value="$PROJECT_DIR$/class-11/app" />
           </set>
         </option>
       </GradleProjectSettings>
@@ -44,6 +58,7 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$/class-12" />
+            <option value="$PROJECT_DIR$/class-12/app" />
           </set>
         </option>
       </GradleProjectSettings>
@@ -53,6 +68,7 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$/class-13" />
+            <option value="$PROJECT_DIR$/class-13/app" />
           </set>
         </option>
       </GradleProjectSettings>
@@ -62,6 +78,7 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$/class-14" />
+            <option value="$PROJECT_DIR$/class-14/app" />
           </set>
         </option>
       </GradleProjectSettings>
@@ -71,6 +88,7 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$/class-15" />
+            <option value="$PROJECT_DIR$/class-15/app" />
           </set>
         </option>
       </GradleProjectSettings>
@@ -80,6 +98,7 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$/linked-list-zip" />
+            <option value="$PROJECT_DIR$/linked-list-zip/app" />
           </set>
         </option>
       </GradleProjectSettings>
