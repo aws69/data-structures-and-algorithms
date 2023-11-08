@@ -14,34 +14,6 @@ class TreeNode {
 
 
 public class TreeIntersection {
-    public Set<Integer> tree_intersection(TreeNode root1, TreeNode root2) {
-        Set<Integer> result = new HashSet<>();
-        Map<Integer, Boolean> valueMap = new HashMap<>();
-        populateValueMap(root1, valueMap);
-        findCommonValues(root2, valueMap, result);
-        return result;
-    }
-
-    private void populateValueMap(TreeNode node, Map<Integer, Boolean> valueMap) {
-        if (node == null) {
-            return;
-        }
-        valueMap.put(node.val, true);
-        populateValueMap(node.left, valueMap);
-        populateValueMap(node.right, valueMap);
-    }
-
-    private void findCommonValues(TreeNode node, Map<Integer, Boolean> valueMap, Set<Integer> result) {
-        if (node == null) {
-            return;
-        }
-        if (valueMap.containsKey(node.val)) {
-            result.add(node.val);
-        }
-        findCommonValues(node.left, valueMap, result);
-        findCommonValues(node.right, valueMap, result);
-    }
-
     // Testing
     public static void main(String[] args) {
         TreeIntersection treeIntersection = new TreeIntersection();
@@ -81,5 +53,33 @@ public class TreeIntersection {
 
         Set<Integer> result3 = treeIntersection.tree_intersection(root5, root6);
         System.out.println("Test Case 3: " + result3); // Output: []
+    }
+
+    public Set<Integer> tree_intersection(TreeNode root1, TreeNode root2) {
+        Set<Integer> result = new HashSet<>();
+        Map<Integer, Boolean> valueMap = new HashMap<>();
+        populateValueMap(root1, valueMap);
+        findCommonValues(root2, valueMap, result);
+        return result;
+    }
+
+    private void populateValueMap(TreeNode node, Map<Integer, Boolean> valueMap) {
+        if (node == null) {
+            return;
+        }
+        valueMap.put(node.val, true);
+        populateValueMap(node.left, valueMap);
+        populateValueMap(node.right, valueMap);
+    }
+
+    private void findCommonValues(TreeNode node, Map<Integer, Boolean> valueMap, Set<Integer> result) {
+        if (node == null) {
+            return;
+        }
+        if (valueMap.containsKey(node.val)) {
+            result.add(node.val);
+        }
+        findCommonValues(node.left, valueMap, result);
+        findCommonValues(node.right, valueMap, result);
     }
 }
