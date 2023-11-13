@@ -21,4 +21,6 @@
 | Code Challenge 15 | [Binary Tree and BST Implementation ](./class-15/README.md) |
 | Code Challenge 16 | [Max tree ](./class-16/README.md)                           |
 | Code Challenge 17 | [Tree Breadth First ](./class-17/README.md)                 |
+| Code Challenge 29 | [Insertion Sort ](./class-29/README.md)                     |
+| Code Challenge 31 | [Hashmap Repeated Word ](./class-31/README.md)              |
 | Code Challenge 32 | [Tree Intersection ](./class-32/README.md)                  |
