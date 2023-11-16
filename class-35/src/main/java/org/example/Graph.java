@@ -14,11 +14,10 @@ public class Graph {
     public int addVertex(int vertex) {
         if (!adjacencyList.containsKey(vertex)) {
             adjacencyList.put(vertex, new ArrayList<>());
-            numVertices++; // Increment the count of vertices
+            numVertices++;
         }
         return vertex;
     }
-
 
     public void addEdge(int vertex1, int vertex2, int weight) {
         if (!adjacencyList.containsKey(vertex1) || !adjacencyList.containsKey(vertex2)) {
@@ -28,10 +27,9 @@ public class Graph {
 
         adjacencyList.get(vertex1).add(new Edge(vertex2, weight));
         if (vertex1 != vertex2) {
-            adjacencyList.get(vertex2).add(new Edge(vertex1, weight)); // For undirected graph
+            adjacencyList.get(vertex2).add(new Edge(vertex1, weight));
         }
     }
-
 
     public Collection<Integer> getVertices() {
         return adjacencyList.keySet();
@@ -43,12 +41,9 @@ public class Graph {
             return new ArrayList<>();
         }
         List<Edge> neighbors = new ArrayList<>(adjacencyList.get(vertex));
-        neighbors.removeIf(edge -> edge.destination == vertex); // Exclude self-referential edges
+        neighbors.removeIf(edge -> edge.destination == vertex);
         return neighbors;
     }
-
-
-
 
     public int size() {
         return numVertices;
