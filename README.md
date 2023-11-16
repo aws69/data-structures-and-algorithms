@@ -26,3 +26,4 @@
 | Code Challenge 32 | [Tree Intersection ](./class-32/README.md)                  |
 | Code Challenge 33 | [Hashmap Left Join ](./class-33/README.md)                  |
 | Code Challenge 34 | [HAS UNIQUE CHARACTERS ](./class-34/README.md)              |
+| Code Challenge 35 | [HAS UNIQUE CHARACTERS ](./class-35/README.md)              |
