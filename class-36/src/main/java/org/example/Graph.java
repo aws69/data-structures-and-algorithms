@@ -4,15 +4,12 @@ import java.util.*;
 
 public class Graph {
     private Map<Node, List<Node>> adjacencyList;
-
     public Graph() {
         this.adjacencyList = new HashMap<>();
     }
-
     public void addNode(Node node, List<Node> neighbors) {
         adjacencyList.put(node, neighbors);
     }
-
     public List<Node> breadthFirst(Node startNode) {
         List<Node> visited = new ArrayList<>();
         Queue<Node> queue = new LinkedList<>();
