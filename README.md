@@ -29,3 +29,4 @@
 | Code Challenge 35 | [HAS UNIQUE CHARACTERS ](./class-35/README.md)              |
 | Code Challenge 35 | [Graph Breadth First ](./class-36/README.md)                |
 | Code Challenge 35 | [Graph Business Trip ](./class-37/README.md)                |
+| Code Challenge 35 | [Graph Depth First ](./class-38/README.md)                  |

@@ -5,21 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7b38897a-c7a8-4b21-815b-ec2c9db9d729" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/class-37/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/class-37/.idea/dbnavigator.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/class-37/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/class-37/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/class-37/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/class-37/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/class-37/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/class-37/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/class-37/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/class-37/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/class-37/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/class-37/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/class-37/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/class-37/src/main/java/org/example/BusinessTrip.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/class-37/src/test/java/BusinessTripTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -90,17 +75,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "android.gradle.sync.needed": "true",
-    "git-widget-placeholder": "graph-breadth-first",
-    "jdk.selected.JAVA_MODULE": "11",
-    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;android.gradle.sync.needed&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;graph-business-trip&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;11&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
